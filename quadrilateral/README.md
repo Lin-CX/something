@@ -1,6 +1,6 @@
-# ![closed_book](https://github.githubassets.com/images/icons/emoji/unicode/1f4d5.png) Introduction
+# 📕 Introduction
 
-## ![thinking](https://github.githubassets.com/images/icons/emoji/unicode/1f914.png) Question
+## 🤔 Question
 
 根据输入打印不同大小的四边形
 
@@ -17,7 +17,7 @@
 
 
 
-## 思路
+## 🧐 思路
 
 * 使用绝对值实现星号前的空格打印个数控制，再通过减法算出星号需要的个数。
 
