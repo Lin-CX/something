@@ -12,7 +12,7 @@
 
 * Examples:
 
-  ![ex01](./example01.png)<img src="./example02.png" alt="ex02" style="zoom:85%;" />
+  ![ex01](./example01.png)  	<img src="./example02.png" alt="ex02" style="zoom:85%;" />
   
   <img src="./example03.png" alt="ex03" style="zoom:50%;" />
 
