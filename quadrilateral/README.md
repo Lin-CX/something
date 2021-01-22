@@ -1,3 +1,5 @@
+
+
 # 📕 Introduction
 
 ## 🤔 Question
@@ -5,15 +7,18 @@
 根据输入打印不同大小的四边形
 
 * Input: size, integer number
+
 * Output: variable size quadrilateral
 
 * Examples:
 
+  
+  
   ![ex01](./example01.png)
-
-![ex02](./example02.png)
-
-![ex03](./example03.png)
+  
+  ![ex02](./example02.png)
+  
+  ![ex03](./example03.png)
 
 
 
